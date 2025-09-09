@@ -20,7 +20,7 @@ It is built with **Node.js, Express, TypeScript, and MongoDB (Mongoose).**
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/proctor-server.git
+git clone https://github.com/Sourabh10122002/proctor-server.git
 cd proctor-server
 npm install
 ```

@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "server.ts",
   "scripts": {
-    "dev": "ts-node-dev server.ts"
+    "dev": "ts-node-dev server.ts",
+    "build": "tsc && node dist/server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
